@@ -15,6 +15,11 @@ const persons = [
         "name": "Mary",
         "age": 25,
         "id": "3dfgs-655asd99-008-asd7-9975a0"
+    },
+    {
+        "name": "Sara",
+        "age": 35,
+        "id": "9abas-f5s4d99-008-asd7-9975a0-9975a0"
     }
 ]
 
